@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Project xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Layout combineReferences="false" width="750" height="1050" buffer="0" Name="Default" defaultCount="1" dpi="300" drawBorder="true">
+    <Element variable="@[resource]" type="Text" x="0" y="0" width="750" height="1050" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="90" horizontalalign="1" verticalalign="1" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="modifier" font="Mongolian Baiti;140;1;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="D:\programming\age-of-cards\parchment.jpg" type="Graphic" x="0" y="0" width="750" height="1050" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="100" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="background" font="Arial;12;0;0;0;0" elementcolor="0x000000FF" bordercolor="0x000000FF" backgroundcolor="0xF0F0F0FF" enabled="true" outlinecolor="0x000000FF" />
+    <Element variable="" type="Graphic" x="232" y="379" width="324" height="296" borderthickness="0" autoscalefont="false" lockaspect="false" keeporiginalsize="false" outlinethickness="0" rotation="0" horizontalalign="0" verticalalign="0" opacity="255" tilesize="" lineheight="14" wordspace="0" justifiedtext="false" name="circle" font="Arial;12;0;0;0;0" elementcolor="0xFF0000FF" bordercolor="0x000000FF" backgroundcolor="0x00000000" enabled="true" outlinecolor="0x000000FF" />
+    <Reference RelativePath="age-of-cards-card-maker.csv" Default="true" />
+    <exportRotation>0</exportRotation>
+    <exportTransparentBackground>false</exportTransparentBackground>
+    <exportPDFAsPageBack>false</exportPDFAsPageBack>
+    <exportWidth>0</exportWidth>
+    <exportHeight>0</exportHeight>
+    <zoom>0.5209524</zoom>
+    <exportLayoutBorder>false</exportLayoutBorder>
+    <exportLayoutBorderCrossSize>0</exportLayoutBorderCrossSize>
+  </Layout>
+  <translatorName>Incept</translatorName>
+  <jsEscapeSingleQuotes>false</jsEscapeSingleQuotes>
+  <jsTildeMeansCode>true</jsTildeMeansCode>
+  <jsKeepFunctions>true</jsKeepFunctions>
+</Project>
